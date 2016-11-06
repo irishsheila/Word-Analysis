@@ -1,8 +1,6 @@
 // ==========================================
 // Created: August 31, 2016
-// Sheila Doherty
-// Homeword Assignment #1
-// Instructor: Elizabeth Boese
+// Homework Assignment #1
 // Description: Counts unique words in a file
 // outputs the top N most common words
 // ==========================================
